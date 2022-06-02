@@ -1,13 +1,3 @@
-<details open="">
-<summary><b><g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨</g-emoji> 其它语言</b></summary>
-<br>
-<ul>
-<li><a href="/liceal/love-/blob/master/README.md">javaScript</a></li>
-</ul>
-</details>
-
-
-
 # [hug](https://github.com/liceal/word/tree/master/hug)
 
 >我连一秒都不曾拥有过你，却感觉已失去你千万次
